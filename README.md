@@ -5,6 +5,8 @@ Pertussis is a highly contagious bacterial disease that primarily affects infant
 
 ![image](https://user-images.githubusercontent.com/7852981/120222929-6ce0b900-c249-11eb-8079-f4ecc608efcb.png)
 
+# Published Paper
+Soon
 
 # Contributors
 Dean Langsam, Dor Kahana, Erez Shmueli † and Dan Yamin †
